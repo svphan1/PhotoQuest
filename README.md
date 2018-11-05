@@ -2,7 +2,7 @@
 
 This is an image finder that allows the user to search for any subject and save those images in their folders for reference or sharing. 
 
--Made with React and Material-UI
+-Made with React, Material-UI, and Axios.
 
 Deployed Link: 
 
