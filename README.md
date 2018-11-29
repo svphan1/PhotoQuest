@@ -1,6 +1,6 @@
 #PhotoQuest App
 
-Deployed Link: httt://photo-quest.surge.sh
+Deployed Link: http://photo-quest.surge.sh
 
 This is an image finder that allows the user to search for any subject and save those images in their folders for reference or sharing. 
 
