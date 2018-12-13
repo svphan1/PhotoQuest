@@ -3,6 +3,6 @@ PhotoQuest is an app that allows users to search for high quality images from Pi
 
 Technologies: React, JavaScript, and Material-UI.
 
-[Deployed Link](htttp://photo-quest.surge.sh)
+[Deployed Link](http://photo-quest.surge.sh)
 
 Screenshots: 
